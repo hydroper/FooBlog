@@ -1,0 +1,8 @@
+{
+    "apiUrl": "http://localhost:3010",
+    "language": {
+        "defaultLanguage": "en-us",
+        "supports": ["en-us"],
+        "roots": ["common", "user", "blog"]
+    }
+}

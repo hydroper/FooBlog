@@ -1,0 +1,32 @@
+.JavaDocTheme .btn {
+    border: none;
+    border-radius: 0;
+    color: #eee;
+    font-size: 12px !important;
+    text-transform: uppercase;
+}
+
+.JavaDocTheme .btn-link,
+.JavaDocTheme .btn-link:hover,
+.JavaDocTheme .btn-link:active {
+    color: #333;
+}
+
+.JavaDocTheme .btn:active,
+.JavaDocTheme .btn:focus {
+    box-shadow: none !important;
+    outline: 1px solid #6af;;
+}
+
+.JavaDocTheme .btn-primary {
+    background: #3d6a87;
+}
+
+.JavaDocTheme .btn-secondary {
+    background: #333;
+}
+
+.JavaDocTheme .btn-primary:active,
+.JavaDocTheme .btn-secondary:active {
+    background: #222 !important;
+}

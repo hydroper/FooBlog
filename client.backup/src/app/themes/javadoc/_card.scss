@@ -1,0 +1,14 @@
+.javadoc-theme .card {
+    border-radius: 0;
+}
+
+.javadoc-theme .card-header {
+    background: none;
+    border-bottom: none;
+    font-style: italic;
+}
+
+.javadoc-theme.bg-white .card {
+    background: #f8f8f8;
+    border: 1px solid #ededed;
+}

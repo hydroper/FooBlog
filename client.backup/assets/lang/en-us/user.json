@@ -1,0 +1,10 @@
+{
+    "forgotPassword": "Forgot your password?",
+    "rememberMe": "Remember me",
+    "fields": {
+        "networkId": "Network ID",
+        "email": "E-mail",
+        "password": "Password",
+        "confirmPassword": "Confirm password"
+    }
+}

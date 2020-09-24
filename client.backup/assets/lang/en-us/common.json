@@ -1,0 +1,11 @@
+{
+    "errors": {
+        "notFound": "Content not found"
+    },
+    "navigation": {
+        "blog": "Blog",
+        "login": "Login",
+        "logout": "Logout",
+        "register": "Register"
+    }
+}

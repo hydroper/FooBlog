@@ -1,0 +1,12 @@
+{
+    "verbs": {
+        "create": "Create post",
+        "edit": "Edit post"
+    },
+    "fields": {
+        "title": "Title",
+        "subtitle": "Subtitle",
+        "content": "Content",
+        "thumbnail": "Thumbnail"
+    }
+}

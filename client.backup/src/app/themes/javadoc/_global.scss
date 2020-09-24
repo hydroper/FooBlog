@@ -1,0 +1,23 @@
+.javadoc-theme > body {
+    font-family: 'DejaVu Serif', Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+}
+
+.javadoc-theme h1,
+.javadoc-theme h2,
+.javadoc-theme h3,
+.javadoc-theme h4 {
+    font-weight: bold;
+}
+
+.javadoc-theme.bg-white > body {
+    color: #353833;
+}
+
+.javadoc-theme.bg-dark {
+    background: #666;
+}
+
+.javadoc-theme.bg-dark > body {
+    color: #eee;
+}

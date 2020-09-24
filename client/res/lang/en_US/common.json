@@ -1,0 +1,17 @@
+{
+    "verbs": {
+        "close": "Close",
+        "discard": "Discard",
+        "saveChanges": "Save changes"
+    },
+    "errors": {
+        "notFound": "Content not found"
+    },
+    "navigation": {
+        "blog": "Blog",
+        "login": "Login",
+        "logout": "Logout",
+        "register": "Register",
+        "search": "Search"
+    }
+}

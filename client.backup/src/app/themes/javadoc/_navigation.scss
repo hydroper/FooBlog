@@ -1,0 +1,40 @@
+.javadoc-theme .navbar {
+    padding-top: 9px !important;
+    padding-bottom: 9px !important;
+}
+
+.javadoc-theme .navbar-brand {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.javadoc-theme .nav-item {
+    font-size: 12px;
+    padding: 5px 6px;
+}
+
+.javadoc-theme .nav-link {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.javadoc-theme .navbar-dark {
+    background: #4d7a97 !important;
+}
+
+.javadoc-theme .navbar-dark .nav-item,
+.javadoc-theme .navbar-dark .nav-link {
+    color: #fff;
+}
+
+.javadoc-theme .navbar-dark .nav-link:hover {
+    color: #fff;
+}
+
+.javadoc-theme .navbar-dark .nav-item[aria-current=page] {
+    background: #F8981d;
+}
+
+.javadoc-theme .navbar-dark .nav-item[aria-current=page] .nav-link {
+    color: #253441;
+}

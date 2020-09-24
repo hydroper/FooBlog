@@ -1,0 +1,22 @@
+.JavaDocTheme .table {
+    border: none;
+}
+
+.JavaDocTheme .table th,
+.JavaDocTheme .table td {
+    border: none;
+}
+
+.JavaDocTheme .table th {
+    font-weight: bold;
+}
+
+.JavaDocTheme .table th,
+.JavaDocTheme .table td {
+    padding: 8px 3px 3px 7px;
+}
+
+.JavaDocTheme .table tr:nth-child(odd) {
+    background: #eeeeeF;
+    text-align: left;
+}

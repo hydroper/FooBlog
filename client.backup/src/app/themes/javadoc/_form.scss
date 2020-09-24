@@ -1,0 +1,39 @@
+// TextInput
+
+.javadoc-theme .col-form-label {
+    font-size: 12px;
+    padding-top: 0;
+    padding-bottom: 0;
+    text-transform: uppercase;
+}
+
+.javadoc-theme .form-control {
+    height: 20px;
+}
+
+.javadoc-theme .form-control {
+    background: #fff;
+    color: #000;
+    border-left: 2px solid #222;
+    border-top: 2px solid #222;
+    border-right: 2px solid #666;
+    border-bottom: 2px solid #666;
+    border-radius: 0;
+    font-size: 14px;
+    padding: 3px 2px;
+    box-shadow: none;
+}
+
+.javadoc-theme .form-control::placeholder,
+.javadoc-theme .form-control::-moz-placeholder,
+.javadoc-theme .form-control::-webkit-input-placeholder {
+    color: #545454;
+}
+
+.javadoc-theme .form-control:active,
+.javadoc-theme .form-control:focus {
+    border-radius: 5px;
+    outline: 1px solid #fff;
+    outline-offset: 0;
+    box-shadow: none;
+}

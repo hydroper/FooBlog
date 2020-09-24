@@ -1,0 +1,11 @@
+{
+	"unsupportedThumbnail": "Unsupported thumbnail file.",
+    "user": {
+        "invalidEmail": "Invalid e-mail.",
+        "idNotFound": "ID not found.",
+        "wrongPassword": "Wrong password.",
+        "unavailableNetworkId": "This ID is unavailable.",
+        "unavailableEmail": "This e-mail is unavailable.",
+        "passwordsDoNotMatch": "Password and password confirmation fields do not match."
+    }
+}

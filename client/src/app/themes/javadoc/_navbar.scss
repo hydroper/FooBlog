@@ -1,0 +1,56 @@
+@import './variables.scss';
+
+.JavaDocTheme .navbar {
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+    text-transform: uppercase;
+}
+
+.JavaDocTheme .navbar-brand {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.JavaDocTheme .navbar .nav-item {
+    font-size: 12px;
+    padding: 2px 6px;
+}
+
+.JavaDocTheme .navbar .nav-link {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.JavaDocTheme .navbar .nav-link:hover,
+.JavaDocTheme .navbar .nav-link:active {
+    color: #f8981d;
+}
+
+.JavaDocTheme .navbar {
+    background: $navbarOrWelcomeColor !important;
+}
+
+.JavaDocTheme .navbar .nav-item,
+.JavaDocTheme .navbar .nav-link {
+    color: #fff;
+}
+
+.JavaDocTheme .navbar .nav-link:hover {
+    color: #fff;
+}
+
+.JavaDocTheme .navbar .nav-item[aria-current=page] {
+    background: #f8981d;
+}
+
+.JavaDocTheme .navbar .nav-item[aria-current=page] .nav-link {
+    color: #253441;
+}
+
+.JavaDocTheme .sub-navbar {
+    background: #dee3e9;
+    overflow: hidden;
+    font-size: 12px;
+    text-transform: uppercase;
+    width: 100%;
+}

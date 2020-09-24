@@ -1,0 +1,13 @@
+{
+    "applicationKey": "Example key",
+    "port": 3010,
+    "language": {
+        "defaultLanguage": "en_US",
+        "supports": ["en_US"],
+        "roots": ["validation"]
+    },
+    "database": {
+        "uri": "postgresql://postgres:123@localhost:3306",
+        "schema": "postgres"
+    }
+}
